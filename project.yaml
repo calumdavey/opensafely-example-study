@@ -1,0 +1,17 @@
+version: "3.0"
+
+actions:
+
+  generate_dataset:
+    run: ehrql:v1 generate-dataset analysis/dataset_definition.py --output output/dataset.csv --dummy-tables dummy_data/
+    outputs:
+      highly_sensitive:
+        dataset: output/dataset.csv
+
+  summarise:
+    needs: [generate_dataset]
+    run: r:v2 analysis/summarise.R
+    outputs:
+      moderately_sensitive:
+        condition_counts: output/condition_counts.csv
+        sex_summary: output/sex_summary.csv

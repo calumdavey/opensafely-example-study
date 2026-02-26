@@ -1,0 +1,51 @@
+patient_id,date,snomedct_code,description
+1,2022-01-10,73211009,Diabetes mellitus
+1,2022-03-05,44054006,Diabetes mellitus type 2
+2,2021-06-22,38341003,Hypertensive disorder
+2,2022-08-14,73211009,Diabetes mellitus
+3,2020-11-03,195967001,Asthma
+3,2021-02-17,44054006,Diabetes mellitus type 2
+4,2022-05-30,73211009,Diabetes mellitus
+5,2021-09-11,38341003,Hypertensive disorder
+5,2022-04-25,195967001,Asthma
+6,2020-07-08,73211009,Diabetes mellitus
+6,2021-12-19,44054006,Diabetes mellitus type 2
+7,2022-02-28,38341003,Hypertensive disorder
+8,2021-04-15,195967001,Asthma
+8,2022-06-07,73211009,Diabetes mellitus
+9,2020-10-21,44054006,Diabetes mellitus type 2
+9,2021-08-03,38341003,Hypertensive disorder
+10,2022-01-29,73211009,Diabetes mellitus
+11,2021-05-14,195967001,Asthma
+12,2020-09-27,38341003,Hypertensive disorder
+12,2022-07-18,73211009,Diabetes mellitus
+13,2021-03-06,44054006,Diabetes mellitus type 2
+14,2022-09-22,195967001,Asthma
+14,2021-11-08,73211009,Diabetes mellitus
+15,2020-06-15,38341003,Hypertensive disorder
+16,2022-04-02,73211009,Diabetes mellitus
+16,2021-07-26,44054006,Diabetes mellitus type 2
+17,2020-12-11,195967001,Asthma
+18,2022-10-05,38341003,Hypertensive disorder
+19,2021-01-23,73211009,Diabetes mellitus
+19,2022-08-30,44054006,Diabetes mellitus type 2
+20,2020-05-19,195967001,Asthma
+20,2021-10-14,73211009,Diabetes mellitus
+1,2023-02-08,44054006,Diabetes mellitus type 2
+3,2023-05-17,38341003,Hypertensive disorder
+5,2023-07-23,73211009,Diabetes mellitus
+7,2023-01-11,195967001,Asthma
+9,2023-06-30,44054006,Diabetes mellitus type 2
+11,2023-03-14,73211009,Diabetes mellitus
+13,2023-09-05,38341003,Hypertensive disorder
+15,2023-04-22,195967001,Asthma
+17,2023-08-16,73211009,Diabetes mellitus
+19,2023-02-27,44054006,Diabetes mellitus type 2
+2,2023-11-09,195967001,Asthma
+4,2023-10-03,38341003,Hypertensive disorder
+6,2023-12-18,73211009,Diabetes mellitus
+8,2023-05-07,44054006,Diabetes mellitus type 2
+10,2023-07-14,195967001,Asthma
+12,2023-09-28,38341003,Hypertensive disorder
+14,2023-03-06,73211009,Diabetes mellitus
+16,2023-11-21,195967001,Asthma
