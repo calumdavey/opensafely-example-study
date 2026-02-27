@@ -37,7 +37,7 @@ dat <- merge(dat,
              by = "pupil_id", all.x = TRUE)
 
 # Attach MAT name
-dat <- merge(dat, schools[, c("school_id", "school_name", "mat_id")],
+dat <- merge(dat, schools[, c("school_id", "school_name")],
              by = "school_id", all.x = TRUE)
 dat <- merge(dat, mats[, c("mat_id", "mat_name")], by = "mat_id", all.x = TRUE)
 
