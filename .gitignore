@@ -1,0 +1,6 @@
+# Data files — never commit patient data to the repo.
+# The server supplies its own data at runtime.
+dummy_data/
+
+# macOS
+.DS_Store
